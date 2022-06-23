@@ -1,0 +1,15 @@
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 10-media piramide invertida\media-piramide-invertida\bin\Debug\net6.0\media-piramide-invertida.exe
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 10-media piramide invertida\media-piramide-invertida\bin\Debug\net6.0\media-piramide-invertida.deps.json
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 10-media piramide invertida\media-piramide-invertida\bin\Debug\net6.0\media-piramide-invertida.runtimeconfig.json
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 10-media piramide invertida\media-piramide-invertida\bin\Debug\net6.0\media-piramide-invertida.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 10-media piramide invertida\media-piramide-invertida\bin\Debug\net6.0\media-piramide-invertida.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 10-media piramide invertida\media-piramide-invertida\obj\Debug\net6.0\media-piramide-invertida.csproj.AssemblyReference.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 10-media piramide invertida\media-piramide-invertida\obj\Debug\net6.0\media-piramide-invertida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 10-media piramide invertida\media-piramide-invertida\obj\Debug\net6.0\media-piramide-invertida.AssemblyInfoInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 10-media piramide invertida\media-piramide-invertida\obj\Debug\net6.0\media-piramide-invertida.AssemblyInfo.cs
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 10-media piramide invertida\media-piramide-invertida\obj\Debug\net6.0\media-piramide-invertida.csproj.CoreCompileInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 10-media piramide invertida\media-piramide-invertida\obj\Debug\net6.0\media-piramide-invertida.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 10-media piramide invertida\media-piramide-invertida\obj\Debug\net6.0\refint\media-piramide-invertida.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 10-media piramide invertida\media-piramide-invertida\obj\Debug\net6.0\media-piramide-invertida.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 10-media piramide invertida\media-piramide-invertida\obj\Debug\net6.0\media-piramide-invertida.genruntimeconfig.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 10-media piramide invertida\media-piramide-invertida\obj\Debug\net6.0\ref\media-piramide-invertida.dll
